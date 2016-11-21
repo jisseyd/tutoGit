@@ -1,0 +1,17 @@
+#MacOS specific
+.ds_Store
+__MACOSX
+
+Gruntfile.js
+bower.js
+gulpfile.js
+package.json
+.bowerrc
+bower.json
+
+#netbeans spécific
+nbproject/*
+!nbproject/project.properties
+!nbproject/project.xml
+
+
